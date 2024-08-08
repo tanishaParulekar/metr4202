@@ -1,0 +1,21 @@
+[1.088s] Invoking command in '/home/tparu001k/metr4202_ws/build/m4202_py_pkg': PYTHONPATH=/home/tparu001k/metr4202_ws/build/m4202_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build --no-deps symlink_data --force
+[1.395s] running develop
+[1.396s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.397s]   warnings.warn(
+[1.614s] running egg_info
+[1.614s] writing m4202_py_pkg.egg-info/PKG-INFO
+[1.615s] writing dependency_links to m4202_py_pkg.egg-info/dependency_links.txt
+[1.615s] writing entry points to m4202_py_pkg.egg-info/entry_points.txt
+[1.615s] writing requirements to m4202_py_pkg.egg-info/requires.txt
+[1.615s] writing top-level names to m4202_py_pkg.egg-info/top_level.txt
+[1.617s] reading manifest file 'm4202_py_pkg.egg-info/SOURCES.txt'
+[1.619s] writing manifest file 'm4202_py_pkg.egg-info/SOURCES.txt'
+[1.620s] running build_ext
+[1.621s] Creating /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202-py-pkg.egg-link (link to .)
+[1.622s] Installing m4202_node script to /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/m4202_py_pkg
+[1.622s] 
+[1.623s] Installed /home/tparu001k/metr4202_ws/build/m4202_py_pkg
+[1.623s] running symlink_data
+[1.623s] symbolically linking /home/tparu001k/metr4202_ws/build/m4202_py_pkg/resource/m4202_py_pkg -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/ament_index/resource_index/packages
+[1.623s] symbolically linking /home/tparu001k/metr4202_ws/build/m4202_py_pkg/package.xml -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/m4202_py_pkg
+[1.662s] Invoked command in '/home/tparu001k/metr4202_ws/build/m4202_py_pkg' returned '0': PYTHONPATH=/home/tparu001k/metr4202_ws/build/m4202_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build --no-deps symlink_data --force

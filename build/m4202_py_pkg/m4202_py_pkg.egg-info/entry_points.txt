@@ -1,0 +1,3 @@
+[console_scripts]
+m4202_node = m4202_py_pkg.m4202_first_node:main
+

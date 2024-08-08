@@ -1,0 +1,28 @@
+running develop
+Removing /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202-py-pkg.egg-link (link to .)
+running egg_info
+writing ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/requires.txt
+writing top-level names to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/top_level.txt
+reading manifest file '../../build/m4202_py_pkg/m4202_py_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/m4202_py_pkg/m4202_py_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying m4202_py_pkg/m4202_first_node.py -> /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build/lib/m4202_py_pkg
+running install
+running install_lib
+creating /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg
+copying /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build/lib/m4202_py_pkg/m4202_first_node.py -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg
+copying /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build/lib/m4202_py_pkg/__init__.py -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg
+byte-compiling /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg/m4202_first_node.py to m4202_first_node.cpython-310.pyc
+byte-compiling /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/m4202_py_pkg -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/m4202_py_pkg
+running install_egg_info
+Copying ../../build/m4202_py_pkg/m4202_py_pkg.egg-info to /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing m4202_node script to /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/m4202_py_pkg
+writing list of installed files to '/home/tparu001k/metr4202_ws/build/m4202_py_pkg/install.log'

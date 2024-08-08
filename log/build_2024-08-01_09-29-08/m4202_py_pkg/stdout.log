@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing m4202_py_pkg.egg-info/PKG-INFO
+writing dependency_links to m4202_py_pkg.egg-info/dependency_links.txt
+writing entry points to m4202_py_pkg.egg-info/entry_points.txt
+writing requirements to m4202_py_pkg.egg-info/requires.txt
+writing top-level names to m4202_py_pkg.egg-info/top_level.txt
+reading manifest file 'm4202_py_pkg.egg-info/SOURCES.txt'
+writing manifest file 'm4202_py_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202-py-pkg.egg-link (link to .)
+Installing m4202_node script to /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/m4202_py_pkg
+
+Installed /home/tparu001k/metr4202_ws/build/m4202_py_pkg
+running symlink_data
+symbolically linking /home/tparu001k/metr4202_ws/build/m4202_py_pkg/resource/m4202_py_pkg -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/tparu001k/metr4202_ws/build/m4202_py_pkg/package.xml -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/m4202_py_pkg

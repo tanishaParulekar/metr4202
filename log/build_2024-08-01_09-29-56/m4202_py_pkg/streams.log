@@ -1,0 +1,32 @@
+[1.667s] Invoking command in '/home/tparu001k/metr4202_ws/build/m4202_py_pkg': PYTHONPATH=/home/tparu001k/metr4202_ws/build/m4202_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build
+[2.431s] running develop
+[2.828s] Removing /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202-py-pkg.egg-link (link to .)
+[2.887s] Invoked command in '/home/tparu001k/metr4202_ws/build/m4202_py_pkg' returned '0': PYTHONPATH=/home/tparu001k/metr4202_ws/build/m4202_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build
+[2.890s] Invoking command in '/home/tparu001k/metr4202_ws/src/m4202_py_pkg': PYTHONPATH=/home/tparu001k/metr4202_ws/build/m4202_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/m4202_py_pkg build --build-base /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build install --record /home/tparu001k/metr4202_ws/build/m4202_py_pkg/install.log --single-version-externally-managed install_data --force
+[3.458s] running egg_info
+[3.460s] writing ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/PKG-INFO
+[3.461s] writing dependency_links to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/dependency_links.txt
+[3.461s] writing entry points to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/entry_points.txt
+[3.462s] writing requirements to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/requires.txt
+[3.462s] writing top-level names to ../../build/m4202_py_pkg/m4202_py_pkg.egg-info/top_level.txt
+[3.466s] reading manifest file '../../build/m4202_py_pkg/m4202_py_pkg.egg-info/SOURCES.txt'
+[3.468s] writing manifest file '../../build/m4202_py_pkg/m4202_py_pkg.egg-info/SOURCES.txt'
+[3.472s] running build
+[3.472s] running build_py
+[3.473s] copying m4202_py_pkg/m4202_first_node.py -> /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build/lib/m4202_py_pkg
+[3.474s] running install
+[3.474s] running install_lib
+[3.475s] creating /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg
+[3.476s] copying /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build/lib/m4202_py_pkg/m4202_first_node.py -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg
+[3.476s] copying /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build/lib/m4202_py_pkg/__init__.py -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg
+[3.477s] byte-compiling /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg/m4202_first_node.py to m4202_first_node.cpython-310.pyc
+[3.479s] byte-compiling /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg/__init__.py to __init__.cpython-310.pyc
+[3.479s] running install_data
+[3.480s] copying resource/m4202_py_pkg -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/ament_index/resource_index/packages
+[3.480s] copying package.xml -> /home/tparu001k/metr4202_ws/install/m4202_py_pkg/share/m4202_py_pkg
+[3.481s] running install_egg_info
+[3.484s] Copying ../../build/m4202_py_pkg/m4202_py_pkg.egg-info to /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages/m4202_py_pkg-0.0.0-py3.10.egg-info
+[3.486s] running install_scripts
+[3.530s] Installing m4202_node script to /home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/m4202_py_pkg
+[3.531s] writing list of installed files to '/home/tparu001k/metr4202_ws/build/m4202_py_pkg/install.log'
+[3.584s] Invoked command in '/home/tparu001k/metr4202_ws/src/m4202_py_pkg' returned '0': PYTHONPATH=/home/tparu001k/metr4202_ws/build/m4202_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tparu001k/metr4202_ws/install/m4202_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/m4202_py_pkg build --build-base /home/tparu001k/metr4202_ws/build/m4202_py_pkg/build install --record /home/tparu001k/metr4202_ws/build/m4202_py_pkg/install.log --single-version-externally-managed install_data --force
